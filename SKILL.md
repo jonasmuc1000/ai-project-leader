@@ -1,5 +1,5 @@
 ---
-name: project-lead
+name: ai-project-leader
 description: Makes Claude the lead of a project. Use for any kind of project, especially work without code such as events, offers, tenders, campaigns, market research, board decks or hiring rounds. Agrees the goal, splits it into steps that end in something checkable, briefs subagents, checks every result before moving on, keeps one PROJECT.md per project, and can run several projects side by side on a schedule.
 ---
 

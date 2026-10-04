@@ -1,4 +1,4 @@
-# project-lead
+# ai-project-leader
 
 [Deutsche Version](README.de.md)
 
@@ -27,10 +27,10 @@ The most important part is the checking. A worker's "done" is where the checking
 **Claude Code**
 
 ```bash
-git clone https://github.com/jonasmuc1000/project-lead ~/.claude/skills/project-lead
+git clone https://github.com/jonasmuc1000/ai-project-leader ~/.claude/skills/ai-project-leader
 ```
 
-For a single project, clone into `.claude/skills/project-lead` inside that project instead.
+For a single project, clone into `.claude/skills/ai-project-leader` inside that project instead.
 
 **Claude apps (Claude.ai, Cowork)**
 

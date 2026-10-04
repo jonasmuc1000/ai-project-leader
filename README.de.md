@@ -1,4 +1,4 @@
-# project-lead
+# ai-project-leader
 
 [English version](README.md)
 
@@ -27,10 +27,10 @@ Der wichtigste Teil ist die Prüfung. Meldet ein Worker „fertig“, fängt die
 **Claude Code**
 
 ```bash
-git clone https://github.com/jonasmuc1000/project-lead ~/.claude/skills/project-lead
+git clone https://github.com/jonasmuc1000/ai-project-leader ~/.claude/skills/ai-project-leader
 ```
 
-Für ein einzelnes Projekt stattdessen nach `.claude/skills/project-lead` im Projektordner klonen.
+Für ein einzelnes Projekt stattdessen nach `.claude/skills/ai-project-leader` im Projektordner klonen.
 
 **Claude-Apps (Claude.ai, Cowork)**
 
