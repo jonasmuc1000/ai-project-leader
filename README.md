@@ -1,6 +1,6 @@
 # ai-project-leader
 
-[Deutsche Version](README.de.md)
+[Deutsche Version](README.de.md) · **Website:** [jonasmuc1000.github.io/ai-project-leader](https://jonasmuc1000.github.io/ai-project-leader/)
 
 A skill that makes Claude the lead of your projects. You set the goal and the limits. Claude plans the steps, hands them to subagents, checks every result itself and keeps one `PROJECT.md` per project. Several projects can run side by side, and with a schedule they keep moving while you are away. You get pulled in when a decision is yours.
 
